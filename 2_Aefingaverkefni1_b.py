@@ -1,0 +1,5 @@
+print("Reikningur\n")
+print("Heiti vöru\tMagn\tVerd\tSamtals")
+print("Snjódekk\t4\t11.900\t47.600")
+print("Umfelgun\t1\t2.400\t2.400")
+print("\t\t\t\t50.000")
