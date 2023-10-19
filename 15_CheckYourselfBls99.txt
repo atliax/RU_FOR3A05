@@ -1,0 +1,12 @@
+1:
+    a: 1.16666666666 float
+    b: 2.0 float
+    c: 1 int
+    d: 2 int
+    e: 7.0 float
+
+2:
+    a: 16
+    b: 26
+    c: 9
+    d: 10
