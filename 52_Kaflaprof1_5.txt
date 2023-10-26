@@ -1,0 +1,6 @@
+Föll eins og int(), float() og str() eru til þess fallin að umbreyta (e. cast)
+einhverju inntaki eða breytu úr einni gerð yfir í aðra gerð. Það nýtist þegar við
+þurfum að framkvæma einhverja aðgerð sem upprunalega gerðin styður ekki. T.d.
+þegar tekið er við notandainntaki í Python. Þá kemur inntakið sem textastrengur,
+þannig að ef notandinn slær inn "26" og við viljum kannski bæta 1 við, þá þurfum
+við fyrst að umbreyta inntakinu yfir í int eða float áður en við getum notað + aðgerðina.
