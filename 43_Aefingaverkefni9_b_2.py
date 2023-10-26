@@ -1,5 +1,5 @@
 hitastig = float(input("Hvað er hitastigið í Palo Alto? (fahrenheit) "))
-season = input("Er sumar? (J eða N) ")
+season = input("Er sumar? (J eða N) ").upper()
 
 lower = 60
 upper = 90
