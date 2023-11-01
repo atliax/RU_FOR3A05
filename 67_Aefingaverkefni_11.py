@@ -54,4 +54,5 @@ print(extra)
 
 fikt
 fikt 2
+fikt 3
 """
