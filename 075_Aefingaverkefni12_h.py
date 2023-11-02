@@ -8,4 +8,4 @@ if text.isdigit():
 elif text.isalpha():
     print("Textinn inniheldur bara bókstafi.")
 else:
-    print("Textinn inniheldur bæði bókstafi og tölustafi.")
+    print("Nú segi ég eins og Óli: Þú ert nú meiri rugludallurinn!")
