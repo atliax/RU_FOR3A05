@@ -7,4 +7,4 @@ tala = float(input("Sláðu inn radíus hrings: "))
 
 ummal = circle(tala)
 
-print("Ummál hrings með radíus {0} er: {1}".format(tala,round(ummal,3)))
+print(f"Ummál hrings með radíus {tala} er: {round(ummal,3)}")
