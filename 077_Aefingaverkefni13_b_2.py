@@ -6,4 +6,4 @@ tala2 = int(input("Sláðu inn tölu 2: "))
 
 mismunur = subtract(tala1,tala2)
 
-print("Mismunurinn á þeim er: {}".format(mismunur))
+print(f"Mismunurinn á þeim er: {mismunur}")
