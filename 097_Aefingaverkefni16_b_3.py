@@ -1,9 +1,3 @@
-def sum_list(listi):
-    summa = 0
-    for tala in listi:
-        summa += tala
-    return summa
-
 size = 0
 numbers = []
 
@@ -14,5 +8,5 @@ for i in range(1,size+1):
     tala = int(input(f"Sláðu inn tölu ({i} af {size}): "))
     numbers.append(tala)
 
-numbers_summa = sum_list(numbers)
+numbers_summa = sum(numbers)
 print(f"Summan af tölunum er: {numbers_summa}")
