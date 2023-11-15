@@ -1,0 +1,10 @@
+Tilgangurinn með því að nota föll í forritun er meðal annars að
+koma í veg fyrir endurtekningu á kóða.
+Það getur líka hjálpað til við að gera kóðann læsilegri og þar
+af leiðandi auðskiljanlegri að skipta virkninni á honum upp í
+föll.
+Helstu ókostirnir við það að geta ekki notað föll væru að þá
+þyrfti maður sífellt að vera að finna upp hjólið upp á nýtt og
+endurtaka sig. Þá myndu öll forrit sem maður skrifar verða að
+einhvers konar spaghettíhrúgu sem væri bæði torlesnari og líklegri
+til að innihalda villur.
