@@ -1,8 +1,4 @@
-import pprint
-
-pp = pprint.PrettyPrinter(indent=4)
-
-skjal = "data/Tesla.txt"
+skjal = "data/Borges.txt"
 
 talning = {}
 ordin = []
@@ -19,4 +15,6 @@ for ord in ordin:
     else:
         talning[ord] = 1
 
-pp.pprint(talning)
+algengasta_ord = max(talning.items(), key=lambda x:x[1])
+print(f"Algengasta orðið: \"{algengasta_ord[0]}\"")
+print(f"það kom fyrir svona oft: {algengasta_ord[1]}")
