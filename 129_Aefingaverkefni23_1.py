@@ -3,6 +3,9 @@ class hundur:
         self.nafn = nafn
         self.aldur = aldur
 
+    def __str__(self):
+        return f"Hundurinn {self.nafn} er svona gamall/gömul: {self.aldur}"
+
     def gelt(self):
         print("Voff!")
 
